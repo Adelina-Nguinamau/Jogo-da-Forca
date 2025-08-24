@@ -30,6 +30,7 @@ Este projeto foi criado com o objetivo de praticar e melhorar as minhas habilida
 ---
 
 ## 📷 Captura de Tela  
-![Jogo da Forca](Pictures\Screenshots\jogo.png)
+![Jogo da Forca](./img/jogo.png)
+
 
 
